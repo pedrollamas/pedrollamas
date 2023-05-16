@@ -2,7 +2,7 @@
 * Hey! I am Pedro 🤓👋
 * Welcome to my Github Portfolio!
 * If you want to connect with me click below!
-[![LinkedIn](img7LinkedIn_logo_initials.png)(https://www.linkedin.com/in/pedrollamaslopez/)
+[![LinkedIn](img/LinkedIn_logo_initials.png)(https://www.linkedin.com/in/pedrollamaslopez/)
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrollamaslopez/)
 
