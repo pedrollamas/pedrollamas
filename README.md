@@ -3,6 +3,7 @@
 * If you want to connect with me:
   * 📬 Send me an email at pedrollamaslopez@hotmail.com
   * 👨‍💼🤝 Add me on Linkedin at https://www.linkedin.com/in/pedrollamaslopez/
+  * 👀 If you are a recruiter here you have some Q&As about me https://pedrollamas-entrevistame-pedro-llamas-737gfx.streamlit.app/
 
 
 # ⚡ Tech Stack
