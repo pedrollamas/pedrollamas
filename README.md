@@ -6,7 +6,7 @@
   * 👨‍💼🤝 Add me on Linkedin at https://www.linkedin.com/in/pedrollamaslopez/
 
 
-
+## ⚡ Tech Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
