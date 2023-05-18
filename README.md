@@ -22,4 +22,5 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-![Snake animation](https://github.com/{{pedrollamas}}/{{pedrollamas}}/blob/output/github-contribution-grid-snake.svg)
+# 🐍 Contributions 
+![snake gif](https://github.com/pedrollamas/pedrollamas/blob/output/github-contribution-grid-snake.gif)
