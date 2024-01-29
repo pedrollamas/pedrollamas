@@ -2,9 +2,8 @@
 * Welcome to my Github Portfolio!
 * If you want to connect with me:
   * 📬 Send me an email at pedrollamaslopez@hotmail.com
-  * 👨‍💼🤝 Add me on Linkedin at https://www.linkedin.com/in/pedrollamaslopez/
+  * 👨‍💼🤝 Add me on LinkedIn at https://www.linkedin.com/in/pedrollamaslopez/
   * 👀 If you are a recruiter here you have some Q&As about me https://pedrollamas-entrevistame-pedro-llamas-737gfx.streamlit.app/
-
 
 # ⚡ Tech Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +20,12 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=Scala&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621.svg?style=for-the-badge&logo=Azure-Databricks&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 # 🐍 Contributions 
 ![snake gif](https://github.com/pedrollamas/pedrollamas/blob/output/github-contribution-grid-snake.gif)
